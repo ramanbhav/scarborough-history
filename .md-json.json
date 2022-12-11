@@ -1,0 +1,12 @@
+{
+  "name": "markdown-json",
+  "display": true,
+  "cwd": "./",
+  "src": "./articles/",
+  "filePattern": "**/*.md",
+  "dist": "./dist/output.json",
+  "metadata": true,
+  "server": false,
+  "port": 3001,
+  "deterministicOrder": false
+}
