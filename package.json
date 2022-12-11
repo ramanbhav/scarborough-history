@@ -4,6 +4,7 @@
   "description": "A collection of ndividual articles which wil lbe roleld into a JSON file",
   "main": "index.js",
   "scripts": {
+    "build": "npx markdown-json -c .md-json.json  -s ./articles",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Matt Price <matt.price@utoronto.ca>",
