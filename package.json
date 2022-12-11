@@ -1,0 +1,15 @@
+{
+  "name": "scarborough-history",
+  "version": "0.0.1",
+  "description": "A collection of ndividual articles which wil lbe roleld into a JSON file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Price <matt.price@utoronto.ca>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "markdown-json": "^1.6.1",
+    "processmd": "^4.7.0"
+  }
+}
