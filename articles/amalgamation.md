@@ -1,9 +1,9 @@
 ---
-title: "The Old Town of Scarborough"
+image: https://upload.wikimedia.org/wikipedia/commons/9/9a/Toronto_map.png
+title: Amalgamation
 themes: political
-tags:
-- boring
-- base
+periods:
+- postwar
 ---
 # Scarborough is a Town
 

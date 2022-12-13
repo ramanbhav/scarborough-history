@@ -1,9 +1,8 @@
 ---
 title: "Scarborough Becomes a Metropolitan Borough"
 themes: political
-tags:
-- boring
-- base
+periods: 
+- postwar
 ---
 
-Some content here.
+This is an important moment in Scarborough's political history.  Please fill it in!
