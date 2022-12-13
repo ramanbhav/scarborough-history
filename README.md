@@ -50,7 +50,7 @@ Notice the pencil icon near the top right.  Clicking on this button will send yo
 
 **Tip:** try to make all your edits at one time. The next stage can be a little confusing, and it's easy to lose track of your changes while you wait for me to approve them. 
 
-When you're done, click `Propose Changes` at the bototm left.
+When you're done, click `Propose Changes` at the bottom left.
 
 ![edit view](./images/editing.png)
 
@@ -58,11 +58,13 @@ When you're done, click `Propose Changes` at the bototm left.
 
 ![pull request form](./images/pull.png)
 
+-----
 
 ### Create New Files
 
 Creating new files is almost identical to editing fies.  As before, navigate to the [articles](./articles) folder.  From here, click the `Add file` button and choose `Create new file`.  From here, just add content to the file, then follow the steps outlined above.  Be sure to `Propose Changes` and `Create Pull Request`!
 
+-----
 ## Things To Think About
 
 Remember, the topic of today's class is metadata.  I've provided four built-in metadata fields: `title`, `image`, `themes`, and `periods`. Are these good categories for metadata? What about the example terms I've used in the sample content -- are they useful categories? misleading? incomplete? 
