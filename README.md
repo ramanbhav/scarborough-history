@@ -15,7 +15,7 @@ Each file in this folder is a [Markdown](https://docs.github.com/en/get-started/
 ---
 title: The Document Title
 image: htttps://url.of.an/appropriate/image
-subjects: 
+themes: 
 - political history
 - gender
 - etc
